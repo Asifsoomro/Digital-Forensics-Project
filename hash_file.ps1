@@ -1,0 +1,1 @@
+Get-FileHash -Path "sample_email.eml" -Algorithm SHA256

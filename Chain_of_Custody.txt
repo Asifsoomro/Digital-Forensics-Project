@@ -1,0 +1,4 @@
+Evidence: sample_email.eml
+Hashed by: PowerShell SHA256
+Time: 2025-06-13 14:00
+Handled by: Ashar Tariq

@@ -1,0 +1,1 @@
+wevtutil epl System C:\Forensics\SystemLogs.evtx

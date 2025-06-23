@@ -1,0 +1,1 @@
+xcopy E:\Evidence C:\Forensics /E /I
